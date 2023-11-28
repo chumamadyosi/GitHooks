@@ -22,7 +22,7 @@ namespace Tests
             // Arrange
             int x = 4;
             int y = 6;
-            int test = 1;
+            
             // Act
             int result = x * y;
 
