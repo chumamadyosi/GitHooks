@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHooks", "GitHooks\GitHooks.csproj", "{917AAED8-26A9-43B7-B9CD-68D2A8C921A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{CCE28A98-85A3-417F-A91E-3104826EB63A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{917AAED8-26A9-43B7-B9CD-68D2A8C921A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{917AAED8-26A9-43B7-B9CD-68D2A8C921A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{917AAED8-26A9-43B7-B9CD-68D2A8C921A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE28A98-85A3-417F-A91E-3104826EB63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE28A98-85A3-417F-A91E-3104826EB63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE28A98-85A3-417F-A91E-3104826EB63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE28A98-85A3-417F-A91E-3104826EB63A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
