@@ -22,10 +22,9 @@ namespace Tests
             // Arrange
             int x = 4;
             int y = 6;
-            int test = 1;
-            test = 22;
+
             // Act
-            int result = x * y +test;
+            int result = x * y;
 
             // Assert
             Assert.Equal(20, result); // This assertion intentionally fails
